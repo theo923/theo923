@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=theo923&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=theo923&langs_count=5&theme=tokyonight)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=theo923&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **theo923/theo923** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
